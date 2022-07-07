@@ -1,0 +1,72 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	</script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<!--script type="text/javascript" src="engine1/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section --></head>
+<body>
+<div class="container">
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">HIRE.COM</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="hire.html">Hire</a></li>
+      <li><a href="product.html">Products</a></li>
+      <li><a href="contact.html">Contact Us</a></li>
+      <li><a href="help.html">Help</a></li>
+      <li><a href="about.html">About Us</a></li>
+      <li><a href="login.html">Login</a></li>
+      
+    </ul>
+  </div>
+</nav>
+</div>
+  
+<div class="container">
+ 
+
+</div>
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+		<li><img src="data1/images/dogs.jpg" alt="my slide```" title="my slide```" id="wows1_0"/></li>
+		<li><img src="data1/images/interior_frame_tent_400x400px.jpg" alt="Interior_frame_tent_400-x-400px" title="Interior_frame_tent_400-x-400px" id="wows1_1"/></li>
+		<li><img src="data1/images/pic5.jpg" alt="pic5" title="pic5" id="wows1_2"/></li>
+		<li><a href="http://wowslider.net"><img src="data1/images/vw_passat_variant_2.0_tdi_bluemotion_technology_trendline_b7__frontansicht_1,_13._mrz_2011,_wlfrath_1.jpg" alt="css slider" title="VW_Passat_Variant_2.0_TDI_BlueMotion_Technology_Trendline_(B7)_–_Frontansicht_(1),_13._März_2011,_Wülfrath (1)" id="wows1_3"/></a></li>
+		<li><img src="data1/images/washing_machines.jpg" alt="washing machines" title="washing machines" id="wows1_4"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="my slide```"><span><img src="data1/tooltips/dogs.jpg" alt="my slide```"/>1</span></a>
+		<a href="#" title="Interior_frame_tent_400-x-400px"><span><img src="data1/tooltips/interior_frame_tent_400x400px.jpg" alt="Interior_frame_tent_400-x-400px"/>2</span></a>
+		<a href="#" title="pic5"><span><img src="data1/tooltips/pic5.jpg" alt="pic5"/>3</span></a>
+		<a href="#" title="VW_Passat_Variant_2.0_TDI_BlueMotion_Technology_Trendline_(B7)_–_Frontansicht_(1),_13._März_2011,_Wülfrath (1)"><span><img src="data1/tooltips/vw_passat_variant_2.0_tdi_bluemotion_technology_trendline_b7__frontansicht_1,_13._mrz_2011,_wlfrath_1.jpg" alt="VW_Passat_Variant_2.0_TDI_BlueMotion_Technology_Trendline_(B7)_–_Frontansicht_(1),_13._März_2011,_Wülfrath (1)"/>4</span></a>
+		<a href="#" title="washing machines"><span><img src="data1/tooltips/washing_machines.jpg" alt="washing machines"/>5</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">jquery slider</a> by WOWSlider.com v9.0</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine1/wowslider.js"></script>
+	<script type="text/javascript" src="engine1/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
+
+</body>
+</html>
+
+  
+ 
