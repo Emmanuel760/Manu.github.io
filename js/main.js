@@ -66,3 +66,8 @@ for (let data in schools )
 {console.log(data,schools[data]);
         
 }
+
+
+function loginuser() {
+    //login
+}
