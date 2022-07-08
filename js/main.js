@@ -71,3 +71,4 @@ for (let data in schools )
 function loginuser() {
     //login
 }
+var num6= 32
